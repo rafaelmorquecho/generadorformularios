@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     // Utilizar IntelliSense para aprender acerca de los posibles atributos.
     // Mantenga el puntero para ver las descripciones de los existentes atributos 
@@ -12,4 +13,20 @@
             "webRoot": "${D:/phpnetbeans}"
         }
     ]
+=======
+{
+    // Utilizar IntelliSense para aprender acerca de los posibles atributos.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos 
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Lanzar Chrome contra localhost",
+            "url": "http://localhost/generadorformularios",
+            "webRoot": "${D:/phpnetbeans}"
+        }
+    ]
+>>>>>>> rama-de-trabajo
 }
